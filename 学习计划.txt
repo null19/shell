@@ -1,0 +1,12 @@
+shell学习计划
+
+
+
+
+使用VMware虚拟机进入centos7系统，yum源为163源，ip192.168.26.129，使用ssh连接
+iptables未设置，已安装vmwaretools，与客户机的tron\shell文件夹共享，访问目录为/mnt/hgfs/shell
+shell基本语法，if for echo #!/bin/bash 定义变量后输出，简单数值运算
+下次学习函数及各个'' "" {} [] / \ sed（过滤） awk（截取） 用法
+正则表达式学习
+学习使用简单的脚本，监控系统状态（cpu，内存，磁盘，网络）创建不同文件名，改变文件中的字符串等
+常见shell面试题分析并试写
